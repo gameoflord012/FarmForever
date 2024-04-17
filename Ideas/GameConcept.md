@@ -31,4 +31,4 @@ Người chơi sẽ phải hoàn thành đơn hàng qua từng ngày và nông t
 
 <img src="prison.png" width="500">
 
-Game kết thúc khi người chơi hoàn thành hết màn chơi hoặc là nếu như người chơi không hoàn thành kịp kpi thì chết thôi bé ơi.
+Game kết thúc khi người chơi hoàn thành hết màn chơi hoặc là nếu như người chơi không hoàn thành kịp kpi thì nông trại của họ sẽ phá sản và cta sẽ bắt đầu lại từ đầu :D
