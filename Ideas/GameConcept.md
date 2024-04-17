@@ -30,3 +30,5 @@ Sẽ có các giống cây trồng khác nhau và có thể trồng tùy vào lo
 Người chơi sẽ phải hoàn thành đơn hàng qua từng ngày và nông trại của họ sẽ càng lớn lên, họ sẽ phải xây dựng hệ thống nông trại phức tạp hơn, hoặc làm đơn giản nếu artist quá cùi.
 
 <img src="prison.png" width="500">
+
+Game kết thúc khi người chơi hoàn thành hết màn chơi hoặc là nếu như người chơi không hoàn thành kịp kpi thì chết thôi bé ơi.
